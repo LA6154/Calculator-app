@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  width: 420px;
+  background-color:black;
+  margin: auto;
+  padding: 11px;
+  text-align: center;
+  margin-top: 20px;
+}
+.container input{
+  width: 90%;
+  margin: 11px;
+  padding: 11px;
+  border-radius: 5px;
+
+}
+.container button{
+  width: 90px;
+  margin: 7px;
+  padding: 11px;
+  border-radius: 5px;
+  font-size: 20px;
+}
